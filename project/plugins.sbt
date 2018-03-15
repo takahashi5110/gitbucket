@@ -6,6 +6,6 @@ addSbtPlugin("com.eed3si9n"         % "sbt-assembly"      % "0.14.5")
 //addSbtPlugin("fi.gekkio.sbtplugins" % "sbt-jrebel-plugin" % "0.10.0")
 addSbtPlugin("org.scalatra.sbt"     % "sbt-scalatra"      % "1.0.1")
 addSbtPlugin("com.jsuereth"         % "sbt-pgp"           % "1.1.0")
-//addSbtCoursier
+addSbtCoursier
 addSbtPlugin("com.typesafe.sbt"     % "sbt-license-report" % "1.2.0")
-addSbtPlugin("com.typesafe.sbt" % "sbt-native-packager" % "0.8.0")
+addSbtPlugin("com.typesafe.sbt" % "sbt-native-packager" % "1.3.3")
